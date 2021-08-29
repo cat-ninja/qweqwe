@@ -1,0 +1,9 @@
+Using wallet: {
+  "address": "0xf8C5FE692cf3EC310561d33052C8c8f6F7d9595E",
+  "key": "0x378abcb298d2f7c1efc4a472e0cacc101c800364e41387d3c505a5bd7c240edb",
+  "mnemonic": {
+    "phrase": "nest trigger flat ankle adjust artefact relax know prefer task quiz drift",
+    "path": "m/44'/60'/0'/0/0",
+    "locale": "en"
+  }
+}

@@ -1,0 +1,9 @@
+Using wallet: {
+  "address": "0x694d04752EC9414f845bF9F2f300F73dA0b6E1C0",
+  "key": "0xce7cf8ecb5bff8315ba0b174dcd6164a0717e5167a81d17789448c18aa94884f",
+  "mnemonic": {
+    "phrase": "hard act tobacco swift smart index flat original south club sing chief",
+    "path": "m/44'/60'/0'/0/0",
+    "locale": "en"
+  }
+}
