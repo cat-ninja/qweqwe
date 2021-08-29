@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://cat-ninja.github.io/qwewq",
+  "buildOrder" : 12,
+  "buildName" : "GitHub Actions Run #1179519007",
+  "buildUrl" : "https://github.com/cat-ninja/qwewq/actions/runs/1179519007",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://cat-ninja.github.io/qwewq/12/"
+} ]

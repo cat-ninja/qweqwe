@@ -1,0 +1,11 @@
+[ {
+  "uid" : "cef63553111810dc",
+  "name" : "Supply ETH (partial supply) @partial-supply",
+  "time" : {
+    "start" : 1630249302664,
+    "stop" : 1630249350670,
+    "duration" : 48006
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

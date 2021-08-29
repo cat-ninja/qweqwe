@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "supply.test.ts",
+    "children" : [ {
+      "name" : "Supply ETH (partial supply) @partial-supply",
+      "uid" : "cef63553111810dc",
+      "parentUid" : "7102b9455c6616ab85cd9275db476724",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630249302664,
+        "stop" : 1630249350670,
+        "duration" : 48006
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7102b9455c6616ab85cd9275db476724"
+  } ],
+  "name" : "suites"
+}

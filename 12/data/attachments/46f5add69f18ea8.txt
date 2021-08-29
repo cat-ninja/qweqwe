@@ -1,0 +1,9 @@
+Using wallet: {
+  "address": "0xE934081C90CC6fA9893FA19761b1CCcE770b4F98",
+  "key": "0x7a2e4ff73c036e14905dda24d2b1c39a1c355c057930215ba196f5673f3909f2",
+  "mnemonic": {
+    "phrase": "throw pole suit law jewel miss asset reopen level obscure oil left",
+    "path": "m/44'/60'/0'/0/0",
+    "locale": "en"
+  }
+}
