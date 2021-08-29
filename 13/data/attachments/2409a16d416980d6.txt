@@ -1,0 +1,9 @@
+Using wallet: {
+  "address": "0x4d74a32aDf3579fc9c0ca18cE40817BFB64B89C4",
+  "key": "0xa6e1a6f40aa9d4948362579afab44d3132e05a55d28b204b847caae4ec8c8eb6",
+  "mnemonic": {
+    "phrase": "fat gift dream like knee senior end barely grain broccoli essence secret",
+    "path": "m/44'/60'/0'/0/0",
+    "locale": "en"
+  }
+}
